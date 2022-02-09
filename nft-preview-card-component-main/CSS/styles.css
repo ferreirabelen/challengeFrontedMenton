@@ -1,0 +1,67 @@
+
+*{
+    MARGIN:0;
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    
+}
+h1{
+    font-size: 28px;
+    color: white;
+    padding:5px 5px 5px 20px;
+
+}
+section article img{
+    width:320px;
+    height:320px;
+    margin:15px;
+    border-radius:2%;
+
+}
+section{
+    margin-top:90px;
+    display:flex;
+    justify-content: center;
+
+}
+article{
+    border-radius:2%;
+    width: 350px;
+    height: 575px;
+    background-color:hsl(216, 50%, 16%);
+}
+p{
+    font-size:18px;
+    color:  hsl(215, 51%, 70%);
+    padding:13px;
+    
+}
+.img{
+    width:15px;
+    height:15px;
+}
+
+span{
+    color:hsl(178, 100%, 50%);
+    position:relative;
+    bottom:18px;
+}
+div p{
+    position:relative;
+    left:60px;
+    bottom:55px;
+}
+div p span{
+    color:white;
+    position:relative;
+    top:0px;
+}
+
+.avatar{
+    width: 40px;
+    height:40px;
+    padding-left:10px;
+    margin:10px;
+}
